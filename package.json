@@ -1,6 +1,6 @@
 {
-  "name": "koa-better-http-proxy",
-  "version": "0.2.4",
+  "name": "koa-mockingbird-proxy",
+  "version": "0.0.2",
   "description": "http proxy middleware for koa",
   "engines": {
     "node": ">=6.0.0"
@@ -16,15 +16,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/nsimmons/koa-better-http-proxy.git"
+    "url": "git@github.com:EltonZhong/koa-better-http-proxy.git"
   },
   "types": "types.d.ts",
   "keywords": [
-    "koa-better-http-proxy"
+    "koa-better-http-proxy",
+    "mockingbird"
   ],
   "author": {
-    "name": "nsimmons",
-    "email": "nick.simmons.514@gmail.com"
+    "name": "eltonzhong",
+    "email": "1136154955@qq.com"
   },
   "license": "MIT",
   "bugs": {
